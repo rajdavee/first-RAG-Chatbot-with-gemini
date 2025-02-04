@@ -24,8 +24,8 @@ Follow these steps to set up the project:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/rajdavee/irst-RAG-Chatbot-with-gemini.git
-cd irst-RAG-Chatbot-with-gemini
+git clone https://github.com/rajdavee/first-RAG-Chatbot-with-gemini.git
+cd first-RAG-Chatbot-with-gemini
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
